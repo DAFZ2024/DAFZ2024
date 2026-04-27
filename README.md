@@ -18,10 +18,9 @@
   </a>
   <!-- Si deseas agregar tu correo, reemplaza "tu-correo@email.com" abajo y quita las etiquetas de comentario -->
   
-  <a href="mailto:du28fo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=du28fo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a> 
-  
 </div>
 
 ---
