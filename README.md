@@ -39,11 +39,10 @@
 
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |---|---|---|---|
-| **[Nombre de tu E-commerce]** | Plataforma de comercio electrónico completa con pasarela de pagos. | `React` `Node.js` `MySQL` | [Repositorio](#) / [Demo](#) |
-| **[Nombre de tu Portafolio]** | Plantilla interactiva y moderna para portafolios de desarrolladores. | `HTML` `CSS` `JS` | [Repositorio](#) / [Demo](#) |
-| **[Proyecto de Datos]** | Análisis exploratorio y visualización de datos de [Tema]. | `Python` `Pandas` | [Repositorio](#) |
+| **[]** | Plataforma de comercio electrónico completa con pasarela de pagos. | `React` `Node.js` `MySQL` | [Repositorio](#) / [Demo](#) |
+| **[]** | Plantilla interactiva y moderna para portafolios de desarrolladores. | `HTML` `CSS` `JS` | [Repositorio](#) / [Demo](#) |
+| **[]** | Análisis exploratorio y visualización de datos de [Tema]. | `Python` `Pandas` | [Repositorio](#) |
 
-*( **Nota para ti:** Recuerda reemplazar los textos entre corchetes `[ ]` con los nombres reales de tus proyectos, y los `#` con los links verdaderos de tus repositorios y páginas en vivo)*
 
 ---
 
